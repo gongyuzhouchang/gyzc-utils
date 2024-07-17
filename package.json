@@ -1,0 +1,11 @@
+{
+  "name": "gyzc-utils",
+  "version": "1.0.0",
+  "description": "test the npm release process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gyzc",
+  "license": "ISC"
+}
